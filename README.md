@@ -15,7 +15,7 @@ CIFAR-10 画像データセットを用いて、画像分類モデルを作成�
 
 精度
 
--**4_Layer_Classifier.ipynb :** 約76%
+**-4_Layer_Classifier.ipynb : ** 約76%
 
 <img width="435" alt="image" src="https://github.com/Asato4931/CIFAR-10-Classifier/assets/108675293/123662ce-89eb-43fd-8445-74545e9ddeb8">
 
