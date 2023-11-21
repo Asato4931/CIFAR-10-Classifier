@@ -5,19 +5,19 @@
 
 CIFAR-10 画像データセットを用いて、画像分類モデルを作成しました。
 
-① 4-Layer-CNN : Pytorchを用いてアーキテクチャを0から構築
+- 4_Layer_Classifier.ipynb : Pytorchを用いてアーキテクチャを0から構築
 
-② Efficient Net Finetune : Efficient Net V2をFinetune
+- efficient-net-fine-tune.ipynb : Efficient Net V2をFinetune
 
-の2種類あります。
+の2種類ございます。
 
 ## 結果
 精度
-①: 約76%
+4_Layer_Classifier.ipynb : 約76%
 
 <img width="435" alt="image" src="https://github.com/Asato4931/CIFAR-10-Classifier/assets/108675293/123662ce-89eb-43fd-8445-74545e9ddeb8">
 
-②: 約95%
+efficient-net-fine-tune.ipynb : 約95%
 
 <img width="435" alt="image" src="https://github.com/Asato4931/CIFAR-10-Classifier/assets/108675293/dec1d181-db57-4ae0-8df0-4697abd183b8">
 
