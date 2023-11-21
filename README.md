@@ -29,8 +29,7 @@ CIFAR-10 画像データセットを用いて、画像分類モデルを作成�
 
 具体的な作成手順は以下の画像をクリックして参照してください。
 
-<a href = https://qiita.com/asato4931/private/19079fbeb46d9099c98e>
+<a href = https://qiita.com/asato4931/private/fd3b13ca22ca9cf3b4ea>
   <img width="579" alt="image" src="https://github.com/Asato4931/CIFAR-10-Classifier/assets/108675293/45147fe9-3b5b-4b94-801a-5f071630bea3">
 </a>
-
 
